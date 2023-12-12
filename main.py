@@ -1,4 +1,5 @@
-
+# sourced from https://towardsdatascience.com/jane-the-discoverer-enhancing-causal-discovery-with-large-language-models-causal-python-564a63425c93
+# this demo elaborates the effectiveness of LLM+RAG in causal discovery as opposed to sole LLM
 from itertools import combinations
 import os
 os.environ['OPENAI_API_KEY'] = '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'
